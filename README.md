@@ -228,4 +228,4 @@ Research history and report storage
 Support for additional local and hosted LLMs
 Author
 
-Shreesh Polawar
+Parth Ganjewar
